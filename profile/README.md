@@ -1,4 +1,4 @@
-# ¡Hola, somos PipsaDevs!
+# ¡Hola, somos PipsaDevs! (Ya llegaron las pipsash)
 No tenemos idea alguna de lo que hacemos ni programamos, pero hemos decidido hacer una organización porque somos 2 fans de la programación que quieren publicar repositorios (medianamente) decentes.
 
 
