@@ -2,7 +2,7 @@
 No tenemos idea alguna de lo que hacemos ni programamos, pero hemos decidido hacer una organización porque somos 2 fans de la programación que quieren publicar repositorios (medianamente) decentes.
 
 
-## ¿Quienes son los Chefs de estas Pipsas?
+## ¿Quienes son los Chefs de estas Pipsas AKA los pipserosh?
 ### Hugo Sáez Madrid (@CyRstudent)
  - Soy un humano que existe y que adora ponerle música a toda situación en la vida ;)
  - Supuestamente sé programar en C++, C#, Java, JavaScript (Node.js), Python y un poco de GDScript.
