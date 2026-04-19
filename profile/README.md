@@ -5,7 +5,7 @@ No tenemos idea alguna de lo que hacemos ni programamos, pero hemos decidido hac
 ## ¿Quienes son los Chefs de estas Pipsas AKA los pipserosh?
 ### Hugo Sáez Madrid (@CyRstudent)
  - Soy un humano que existe y que adora ponerle música a toda situación en la vida ;)
- - Supuestamente sé programar en C++, C#, Java, JavaScript (Node.js), Python y un poco de GDScript.
+ - Supuestamente sé programar en C++, C#, Java, JavaScript (Node.js) y TypeScript
  - Me gusta el rock (hell yeah), el gimnasio y la informática (por si no se notaba)
 
 ### Rafael Larrosa Arroyo (@inteltank1)
